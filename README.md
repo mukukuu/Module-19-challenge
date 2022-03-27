@@ -24,9 +24,14 @@ License: MIT, Heroku
 
 https://choosealicense.com/licenses/mit/
 
-## Description
-Daily Budget tracker App is able to handle transation data under unstable internet and offline condition.
-
+## Technologies used:
+- Javascript
+- HTML
+- CSS
+- Mongoose
+- service-worker
+- express
+- morgan
 
 ## Installation
 Follow instructions to install
