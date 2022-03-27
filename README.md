@@ -1,4 +1,6 @@
-# Budget Tracker deployed site: 
+# Budget_Tracker App
+
+##deployed site: 
 https://budget19cc.herokuapp.com 
 
 ##APP screenshot
