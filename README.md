@@ -1,4 +1,4 @@
-# Budget_Tracker App
+# Yin-s-Budget-Tracker
 
 ##deployed site: 
 https://budget19cc.herokuapp.com 
